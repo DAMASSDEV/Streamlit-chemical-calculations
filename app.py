@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu
 
 
 with st.sidebar:
-    st.image('https://raw.githubusercontent.com/DAMASSDEV/Streamlit-chemical-calculations/blob/main/Assets/Foto_Judul.jpg')
+    st.image('https://raw.githubusercontent.com/DAMASSDEV/Streamlit-chemical-calculations/main/Assets/Foto_Judul.jpg')
     st.title('WELCOME TO PROGRAM')
     st.subheader("KELOMPOK 2")
     Selected = option_menu('Menu',['Program Aplikasi Perhitungan μ VT', 'Program Aplikasi Perhitungan μ FP'])
